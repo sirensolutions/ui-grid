@@ -31,7 +31,7 @@
   "author": "UI Grid Team",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "~3.3.5"
+    "bootstrap": "~3.4.1"
   },
   "devDependencies": {
     "bower": "^1.8.2",
